@@ -1,0 +1,25 @@
+.error {
+  font-weight: bold;
+  color: #FF0000;
+}
+
+.topscoreheader {
+  text-align: center;
+  font-size: 200%;
+  background-color: #36407F;
+    width: 870px;
+    padding: 12px 0 12px 0;
+    font-style: italic;
+    font-weight: bold;
+  color: #FFFFFF;
+}
+
+.score {
+  font-size:150%;
+  color: #36407F;
+}
+
+.scoreinfo {
+  vertical-align: top;
+  padding-right:15px;
+}
